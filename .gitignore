@@ -1,5 +1,5 @@
 ### Maven ###
-target/
-.idea/
-/**/*.iml
-/**/*.iws
+**/target/
+**/.idea/
+**/*.iml
+**/*.iws
